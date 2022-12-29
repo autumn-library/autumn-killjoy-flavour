@@ -2,3 +2,4 @@
 .DS_Store
 *.ospx
 out/
+oscript_modules/
