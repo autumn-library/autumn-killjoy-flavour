@@ -58,7 +58,7 @@ opm install autumn-killjoy-flavour
 
 ## Документация
 
-- [Справочник аннотаций](../api/index.md) — подробное описание каждой «душной» аннотации.
+- [Справочник аннотаций](https://autumn-library.github.io/api/autumn-killjoy-flavour) — подробное описание каждой «душной» аннотации.
 
 ## Лицензия
 
